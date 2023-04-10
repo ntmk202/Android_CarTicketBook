@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CarTicketBook</string>
+    <string name="tuyen_xe">Tuyến Xe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sdt">Số điện thoại</string>
+    <string name="ho_ten">Họ và tên</string>
+    <string name="email">Địa chỉ Email</string>
+    <string name="date">Ngày đi</string>
+    <string name="ve">Số vé</string>
+    <string name="todo">TODO</string>
+    <string name="chon_diem_di">Chọn điểm đi</string>
+    <string name="diem_di">Điểm đi</string>
+    <string name="chon_diem_den">Chọn điểm đến</string>
+    <string name="diem_den">Điểm đến</string>
+    <string name="search">Tìm tuyến xe</string>
+    <string name="chon_diem_don">Chọn điểm đón</string>
+
+    <string-array name="places">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Đà Lạt</item>
+        <item>Nha Trang</item>
+    </string-array>
+</resources>

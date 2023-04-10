@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/border_green_shape.xml" value="0.183" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/border_shape.xml" value="0.183" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/border_white_shape.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/bottom_sheet.xml" value="0.183" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.2455" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.2355" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.2455" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.183" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.15" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/textinput_shape.xml" value="0.2355" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ticket_shape.xml" value="0.2455" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ticketleft_shape.xml" value="0.2455" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/drawable/ticketright_shape.xml" value="0.2455" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/activity_confirm_pay.xml" value="0.18340611353711792" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/activity_payment.xml" value="0.11158798283261803" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/activity_thongtin_ve.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/activity_thongtinve.xml" value="0.176" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/activity_tuyenxe.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/fragment_my_location.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/fragment_tuyenxe.xml" value="0.11955420466058764" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/location_bottomsheet.xml" value="0.11423505572441743" />
+        <entry key="..\:/AndroidStudio/app/src/main/res/layout/tuyenxe_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

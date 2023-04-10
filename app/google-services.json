@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777096384202",
+    "project_id": "busbookingapp-10674",
+    "storage_bucket": "busbookingapp-10674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777096384202:android:f94638ff76b6505595ee33",
+        "android_client_info": {
+          "package_name": "com.ntmk.carticketbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777096384202-vvk9s1fllplcivrfvf7l12p6rebvjjge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwVKwFhgVcPOO_xrtOJ0lGqAGGMO7kQZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777096384202-vvk9s1fllplcivrfvf7l12p6rebvjjge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
